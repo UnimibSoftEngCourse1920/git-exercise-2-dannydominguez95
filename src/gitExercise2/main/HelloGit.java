@@ -4,5 +4,7 @@ public class HelloGit {
 	public static void main (String [] args) {
 		System.out.println("Hello git!!!");
 		System.out.println("QUESTA è UNA STAMPA");
+		System.out.println("sono il tero commento");
+		System.out.println("sono il quarto commento");
 	}
 }
