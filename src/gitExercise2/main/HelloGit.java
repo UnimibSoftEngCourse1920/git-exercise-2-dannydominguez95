@@ -6,5 +6,7 @@ public class HelloGit {
 		System.out.println("QUESTA è prima STAMPA");
 		
 		System.out.println("sono il quarto commento");
+		System.out.println("sono il quinto commento");
+		System.out.println("sono il sesto commento");
 	}
 }
